@@ -4,8 +4,8 @@
 #include "RF24.h"
 #include "attack.h"
 
-#define CE 5
-#define CSN 6
+#define CE 9
+#define CSN 8
 #define PKT_SIZE 37
 #define PAY_SIZE 32
 #define MICROSOFT 1
